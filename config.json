@@ -1,0 +1,17 @@
+{
+    "port": 8889,
+    "bind_ip": "127.0.0.1",
+    "blocked_domains": [
+        "example.com",
+        "blocked-site.com",
+        "ibm.com",
+        "discord.com",
+        "google.co",
+        "ads.doubleclick.net"
+    ],
+    "blocked_ips": [
+        "0.0.0.0"
+    ],
+    "buffer_size": 4096,
+    "max_connections": 100
+}
